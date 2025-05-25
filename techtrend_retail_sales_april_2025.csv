@@ -1,0 +1,1001 @@
+TransactionID,Date,Product,Quantity,Location,Category,UnitPrice,TotalPrice
+27,2025-04-01,T-Shirt,1,Houston,Clothing,19.99,19.99
+36,2025-04-01,Watch,1,Chicago,Accessories,149.99,149.99
+49,2025-04-01,Headphones,3,Los Angeles,Electronics,89.99,269.96999999999997
+73,2025-04-01,Backpack,3,Houston,Accessories,39.99,119.97
+119,2025-04-01,Sneakers,5,Chicago,Clothing,79.99,399.95
+126,2025-04-01,Sneakers,5,Houston,Clothing,79.99,399.95
+154,2025-04-01,T-Shirt,5,New York,Clothing,19.99,99.94999999999999
+158,2025-04-01,Headphones,3,Houston,Electronics,89.99,269.96999999999997
+167,2025-04-01,Sneakers,4,Chicago,Clothing,79.99,319.96
+178,2025-04-01,Backpack,5,Los Angeles,Accessories,39.99,199.95000000000002
+187,2025-04-01,Sneakers,3,Los Angeles,Clothing,79.99,239.96999999999997
+197,2025-04-01,Jeans,2,Houston,Clothing,49.99,99.98
+248,2025-04-01,T-Shirt,1,Los Angeles,Clothing,19.99,19.99
+262,2025-04-01,T-Shirt,3,Houston,Clothing,19.99,59.97
+300,2025-04-01,Laptop,4,Chicago,Electronics,999.99,3999.96
+326,2025-04-01,Sneakers,4,Houston,Clothing,79.99,319.96
+344,2025-04-01,Jeans,5,Chicago,Clothing,49.99,249.95000000000002
+433,2025-04-01,Sneakers,3,Chicago,Clothing,79.99,239.96999999999997
+464,2025-04-01,Headphones,2,Chicago,Electronics,89.99,179.98
+481,2025-04-01,Watch,3,Chicago,Accessories,149.99,449.97
+545,2025-04-01,Sneakers,3,Chicago,Clothing,79.99,239.96999999999997
+546,2025-04-01,Laptop,5,New York,Electronics,999.99,4999.95
+551,2025-04-01,T-Shirt,1,Houston,Clothing,19.99,19.99
+573,2025-04-01,T-Shirt,1,Chicago,Clothing,19.99,19.99
+610,2025-04-01,Jeans,4,Los Angeles,Clothing,49.99,199.96
+643,2025-04-01,Laptop,1,Los Angeles,Electronics,999.99,999.99
+684,2025-04-01,Backpack,2,New York,Accessories,39.99,79.98
+705,2025-04-01,Headphones,3,Los Angeles,Electronics,89.99,269.96999999999997
+734,2025-04-01,Headphones,2,Chicago,Electronics,89.99,179.98
+739,2025-04-01,Headphones,2,Los Angeles,Electronics,89.99,179.98
+774,2025-04-01,Jeans,5,Chicago,Clothing,49.99,249.95000000000002
+777,2025-04-01,Laptop,5,Chicago,Electronics,999.99,4999.95
+829,2025-04-01,Headphones,2,New York,Electronics,89.99,179.98
+851,2025-04-01,Sneakers,4,Houston,Clothing,79.99,319.96
+856,2025-04-01,Jeans,4,New York,Clothing,49.99,199.96
+875,2025-04-01,Backpack,4,Chicago,Accessories,39.99,159.96
+896,2025-04-01,T-Shirt,1,Houston,Clothing,19.99,19.99
+944,2025-04-01,Backpack,1,Los Angeles,Accessories,39.99,39.99
+1,2025-04-02,Laptop,4,New York,Electronics,999.99,3999.96
+11,2025-04-02,Backpack,2,Los Angeles,Accessories,39.99,79.98
+18,2025-04-02,Sneakers,5,New York,Clothing,79.99,399.95
+42,2025-04-02,Laptop,2,Houston,Electronics,999.99,1999.98
+58,2025-04-02,Jeans,3,Houston,Clothing,49.99,149.97
+94,2025-04-02,Jeans,3,New York,Clothing,49.99,149.97
+136,2025-04-02,Watch,5,Houston,Accessories,149.99,749.95
+153,2025-04-02,Smartphone,5,Los Angeles,Electronics,599.99,2999.95
+191,2025-04-02,Smartphone,3,Los Angeles,Electronics,599.99,1799.97
+216,2025-04-02,Jeans,3,Chicago,Clothing,49.99,149.97
+243,2025-04-02,Smartphone,1,Houston,Electronics,599.99,599.99
+291,2025-04-02,Smartphone,5,New York,Electronics,599.99,2999.95
+356,2025-04-02,Sneakers,2,New York,Clothing,79.99,159.98
+377,2025-04-02,Smartphone,4,Houston,Electronics,599.99,2399.96
+400,2025-04-02,T-Shirt,3,Houston,Clothing,19.99,59.97
+402,2025-04-02,Backpack,2,New York,Accessories,39.99,79.98
+430,2025-04-02,T-Shirt,2,Houston,Clothing,19.99,39.98
+441,2025-04-02,Smartphone,1,Chicago,Electronics,599.99,599.99
+452,2025-04-02,T-Shirt,2,Houston,Clothing,19.99,39.98
+479,2025-04-02,Jeans,1,Chicago,Clothing,49.99,49.99
+486,2025-04-02,Smartphone,1,Los Angeles,Electronics,599.99,599.99
+523,2025-04-02,T-Shirt,1,Chicago,Clothing,19.99,19.99
+538,2025-04-02,Backpack,4,Los Angeles,Accessories,39.99,159.96
+552,2025-04-02,T-Shirt,4,New York,Clothing,19.99,79.96
+594,2025-04-02,Jeans,4,Chicago,Clothing,49.99,199.96
+619,2025-04-02,Laptop,3,New York,Electronics,999.99,2999.9700000000003
+649,2025-04-02,Watch,1,Houston,Accessories,149.99,149.99
+659,2025-04-02,T-Shirt,5,Chicago,Clothing,19.99,99.94999999999999
+660,2025-04-02,Jeans,2,New York,Clothing,49.99,99.98
+668,2025-04-02,Jeans,1,Houston,Clothing,49.99,49.99
+693,2025-04-02,T-Shirt,4,Houston,Clothing,19.99,79.96
+694,2025-04-02,Smartphone,4,Los Angeles,Electronics,599.99,2399.96
+727,2025-04-02,Headphones,5,New York,Electronics,89.99,449.95
+799,2025-04-02,T-Shirt,4,New York,Clothing,19.99,79.96
+882,2025-04-02,Backpack,2,New York,Accessories,39.99,79.98
+906,2025-04-02,Sneakers,5,Houston,Clothing,79.99,399.95
+915,2025-04-02,Headphones,2,Los Angeles,Electronics,89.99,179.98
+939,2025-04-02,Jeans,1,Chicago,Clothing,49.99,49.99
+947,2025-04-02,Headphones,1,Los Angeles,Electronics,89.99,89.99
+954,2025-04-02,T-Shirt,1,Los Angeles,Clothing,19.99,19.99
+974,2025-04-02,Watch,1,Chicago,Accessories,149.99,149.99
+3,2025-04-03,Headphones,3,Chicago,Electronics,89.99,269.96999999999997
+31,2025-04-03,Backpack,4,New York,Accessories,39.99,159.96
+35,2025-04-03,Sneakers,1,Chicago,Clothing,79.99,79.99
+43,2025-04-03,Smartphone,4,Chicago,Electronics,599.99,2399.96
+101,2025-04-03,Laptop,2,New York,Electronics,999.99,1999.98
+112,2025-04-03,T-Shirt,1,Los Angeles,Clothing,19.99,19.99
+122,2025-04-03,T-Shirt,1,Chicago,Clothing,19.99,19.99
+170,2025-04-03,T-Shirt,4,Los Angeles,Clothing,19.99,79.96
+174,2025-04-03,Backpack,5,Houston,Accessories,39.99,199.95000000000002
+175,2025-04-03,Backpack,2,Chicago,Accessories,39.99,79.98
+182,2025-04-03,Jeans,5,Los Angeles,Clothing,49.99,249.95000000000002
+203,2025-04-03,Laptop,1,Chicago,Electronics,999.99,999.99
+212,2025-04-03,Watch,3,Chicago,Accessories,149.99,449.97
+281,2025-04-03,Watch,4,New York,Accessories,149.99,599.96
+293,2025-04-03,Watch,3,New York,Accessories,149.99,449.97
+305,2025-04-03,Smartphone,3,Los Angeles,Electronics,599.99,1799.97
+308,2025-04-03,Sneakers,1,New York,Clothing,79.99,79.99
+390,2025-04-03,Watch,1,Chicago,Accessories,149.99,149.99
+471,2025-04-03,T-Shirt,3,Houston,Clothing,19.99,59.97
+504,2025-04-03,Sneakers,4,Houston,Clothing,79.99,319.96
+515,2025-04-03,Smartphone,3,Houston,Electronics,599.99,1799.97
+542,2025-04-03,Laptop,5,New York,Electronics,999.99,4999.95
+590,2025-04-03,Sneakers,5,Chicago,Clothing,79.99,399.95
+630,2025-04-03,Smartphone,1,Chicago,Electronics,599.99,599.99
+647,2025-04-03,Headphones,5,Chicago,Electronics,89.99,449.95
+665,2025-04-03,T-Shirt,5,Los Angeles,Clothing,19.99,99.94999999999999
+682,2025-04-03,Smartphone,3,Chicago,Electronics,599.99,1799.97
+696,2025-04-03,Sneakers,4,Houston,Clothing,79.99,319.96
+742,2025-04-03,Backpack,4,Houston,Accessories,39.99,159.96
+759,2025-04-03,Watch,4,New York,Accessories,149.99,599.96
+797,2025-04-03,Headphones,1,Chicago,Electronics,89.99,89.99
+806,2025-04-03,Backpack,1,Los Angeles,Accessories,39.99,39.99
+830,2025-04-03,T-Shirt,3,Los Angeles,Clothing,19.99,59.97
+862,2025-04-03,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+873,2025-04-03,Headphones,3,New York,Electronics,89.99,269.96999999999997
+908,2025-04-03,T-Shirt,4,Chicago,Clothing,19.99,79.96
+920,2025-04-03,Laptop,1,New York,Electronics,999.99,999.99
+933,2025-04-03,Headphones,1,Los Angeles,Electronics,89.99,89.99
+937,2025-04-03,T-Shirt,4,Chicago,Clothing,19.99,79.96
+973,2025-04-03,Watch,3,Houston,Accessories,149.99,449.97
+7,2025-04-04,Backpack,2,New York,Accessories,39.99,79.98
+40,2025-04-04,Headphones,1,Chicago,Electronics,89.99,89.99
+168,2025-04-04,T-Shirt,1,Chicago,Clothing,19.99,19.99
+236,2025-04-04,T-Shirt,5,Los Angeles,Clothing,19.99,99.94999999999999
+273,2025-04-04,Laptop,1,Los Angeles,Electronics,999.99,999.99
+354,2025-04-04,Sneakers,3,Los Angeles,Clothing,79.99,239.96999999999997
+393,2025-04-04,Backpack,4,Los Angeles,Accessories,39.99,159.96
+406,2025-04-04,T-Shirt,3,Los Angeles,Clothing,19.99,59.97
+432,2025-04-04,Laptop,3,New York,Electronics,999.99,2999.9700000000003
+505,2025-04-04,T-Shirt,4,Houston,Clothing,19.99,79.96
+522,2025-04-04,Sneakers,1,Chicago,Clothing,79.99,79.99
+565,2025-04-04,Laptop,5,New York,Electronics,999.99,4999.95
+601,2025-04-04,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+603,2025-04-04,Watch,4,New York,Accessories,149.99,599.96
+620,2025-04-04,Laptop,2,Houston,Electronics,999.99,1999.98
+625,2025-04-04,T-Shirt,3,Los Angeles,Clothing,19.99,59.97
+650,2025-04-04,Jeans,1,Chicago,Clothing,49.99,49.99
+662,2025-04-04,T-Shirt,5,Houston,Clothing,19.99,99.94999999999999
+697,2025-04-04,Jeans,1,Houston,Clothing,49.99,49.99
+750,2025-04-04,Backpack,1,Houston,Accessories,39.99,39.99
+788,2025-04-04,Headphones,3,Los Angeles,Electronics,89.99,269.96999999999997
+792,2025-04-04,Sneakers,4,New York,Clothing,79.99,319.96
+794,2025-04-04,Smartphone,1,Los Angeles,Electronics,599.99,599.99
+813,2025-04-04,Laptop,4,Chicago,Electronics,999.99,3999.96
+816,2025-04-04,Laptop,3,Chicago,Electronics,999.99,2999.9700000000003
+832,2025-04-04,Backpack,1,Chicago,Accessories,39.99,39.99
+834,2025-04-04,T-Shirt,4,Houston,Clothing,19.99,79.96
+876,2025-04-04,Laptop,5,Chicago,Electronics,999.99,4999.95
+952,2025-04-04,Watch,4,Chicago,Accessories,149.99,599.96
+972,2025-04-04,Headphones,1,New York,Electronics,89.99,89.99
+20,2025-04-05,Laptop,5,Chicago,Electronics,999.99,4999.95
+45,2025-04-05,Sneakers,1,New York,Clothing,79.99,79.99
+46,2025-04-05,Smartphone,3,New York,Electronics,599.99,1799.97
+147,2025-04-05,Headphones,5,Chicago,Electronics,89.99,449.95
+155,2025-04-05,Jeans,3,Chicago,Clothing,49.99,149.97
+207,2025-04-05,Headphones,1,New York,Electronics,89.99,89.99
+222,2025-04-05,Jeans,5,Houston,Clothing,49.99,249.95000000000002
+232,2025-04-05,Laptop,5,Houston,Electronics,999.99,4999.95
+245,2025-04-05,Laptop,5,New York,Electronics,999.99,4999.95
+270,2025-04-05,T-Shirt,3,New York,Clothing,19.99,59.97
+312,2025-04-05,Jeans,2,Houston,Clothing,49.99,99.98
+318,2025-04-05,Laptop,4,Los Angeles,Electronics,999.99,3999.96
+341,2025-04-05,Sneakers,5,New York,Clothing,79.99,399.95
+438,2025-04-05,Smartphone,3,Houston,Electronics,599.99,1799.97
+444,2025-04-05,Laptop,1,New York,Electronics,999.99,999.99
+531,2025-04-05,Laptop,1,Chicago,Electronics,999.99,999.99
+533,2025-04-05,Backpack,5,New York,Accessories,39.99,199.95000000000002
+577,2025-04-05,T-Shirt,4,Chicago,Clothing,19.99,79.96
+596,2025-04-05,Laptop,2,Los Angeles,Electronics,999.99,1999.98
+602,2025-04-05,Jeans,3,Los Angeles,Clothing,49.99,149.97
+637,2025-04-05,Headphones,2,New York,Electronics,89.99,179.98
+640,2025-04-05,Jeans,4,New York,Clothing,49.99,199.96
+651,2025-04-05,Laptop,3,Houston,Electronics,999.99,2999.9700000000003
+661,2025-04-05,Backpack,1,Houston,Accessories,39.99,39.99
+666,2025-04-05,T-Shirt,3,Los Angeles,Clothing,19.99,59.97
+681,2025-04-05,Jeans,5,Los Angeles,Clothing,49.99,249.95000000000002
+702,2025-04-05,Backpack,4,Chicago,Accessories,39.99,159.96
+723,2025-04-05,Watch,4,New York,Accessories,149.99,599.96
+789,2025-04-05,Laptop,3,New York,Electronics,999.99,2999.9700000000003
+803,2025-04-05,Headphones,5,Chicago,Electronics,89.99,449.95
+849,2025-04-05,Sneakers,3,Chicago,Clothing,79.99,239.96999999999997
+859,2025-04-05,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+898,2025-04-05,T-Shirt,2,Chicago,Clothing,19.99,39.98
+912,2025-04-05,Headphones,1,New York,Electronics,89.99,89.99
+948,2025-04-05,Watch,3,Houston,Accessories,149.99,449.97
+976,2025-04-05,Backpack,2,New York,Accessories,39.99,79.98
+980,2025-04-05,Backpack,3,New York,Accessories,39.99,119.97
+19,2025-04-06,Smartphone,2,Chicago,Electronics,599.99,1199.98
+26,2025-04-06,Laptop,5,Houston,Electronics,999.99,4999.95
+98,2025-04-06,Sneakers,1,Los Angeles,Clothing,79.99,79.99
+106,2025-04-06,Watch,1,Houston,Accessories,149.99,149.99
+146,2025-04-06,Sneakers,3,Houston,Clothing,79.99,239.96999999999997
+200,2025-04-06,Watch,1,Los Angeles,Accessories,149.99,149.99
+238,2025-04-06,Headphones,3,Los Angeles,Electronics,89.99,269.96999999999997
+263,2025-04-06,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+374,2025-04-06,Jeans,5,New York,Clothing,49.99,249.95000000000002
+385,2025-04-06,Backpack,5,New York,Accessories,39.99,199.95000000000002
+431,2025-04-06,Headphones,4,New York,Electronics,89.99,359.96
+475,2025-04-06,T-Shirt,3,New York,Clothing,19.99,59.97
+484,2025-04-06,Watch,2,Los Angeles,Accessories,149.99,299.98
+489,2025-04-06,Headphones,4,Los Angeles,Electronics,89.99,359.96
+563,2025-04-06,Sneakers,5,Houston,Clothing,79.99,399.95
+635,2025-04-06,Backpack,3,Los Angeles,Accessories,39.99,119.97
+644,2025-04-06,Laptop,1,Chicago,Electronics,999.99,999.99
+745,2025-04-06,T-Shirt,4,Chicago,Clothing,19.99,79.96
+772,2025-04-06,Laptop,1,Chicago,Electronics,999.99,999.99
+783,2025-04-06,Jeans,4,Chicago,Clothing,49.99,199.96
+787,2025-04-06,Headphones,3,Chicago,Electronics,89.99,269.96999999999997
+846,2025-04-06,Headphones,5,Houston,Electronics,89.99,449.95
+863,2025-04-06,Sneakers,1,New York,Clothing,79.99,79.99
+867,2025-04-06,Sneakers,2,Chicago,Clothing,79.99,159.98
+913,2025-04-06,Sneakers,1,New York,Clothing,79.99,79.99
+965,2025-04-06,Jeans,2,Chicago,Clothing,49.99,99.98
+994,2025-04-06,Smartphone,4,Chicago,Electronics,599.99,2399.96
+65,2025-04-07,Watch,3,Los Angeles,Accessories,149.99,449.97
+120,2025-04-07,Watch,2,Houston,Accessories,149.99,299.98
+157,2025-04-07,Jeans,1,Chicago,Clothing,49.99,49.99
+286,2025-04-07,Jeans,4,New York,Clothing,49.99,199.96
+294,2025-04-07,Jeans,4,Los Angeles,Clothing,49.99,199.96
+296,2025-04-07,Laptop,5,New York,Electronics,999.99,4999.95
+301,2025-04-07,Watch,5,Houston,Accessories,149.99,749.95
+366,2025-04-07,Jeans,2,Chicago,Clothing,49.99,99.98
+372,2025-04-07,Headphones,1,Houston,Electronics,89.99,89.99
+485,2025-04-07,T-Shirt,3,New York,Clothing,19.99,59.97
+495,2025-04-07,T-Shirt,5,Chicago,Clothing,19.99,99.94999999999999
+512,2025-04-07,Laptop,2,Chicago,Electronics,999.99,1999.98
+534,2025-04-07,Sneakers,1,Houston,Clothing,79.99,79.99
+536,2025-04-07,Headphones,4,New York,Electronics,89.99,359.96
+541,2025-04-07,Watch,2,Houston,Accessories,149.99,299.98
+571,2025-04-07,Laptop,1,Houston,Electronics,999.99,999.99
+588,2025-04-07,Smartphone,3,New York,Electronics,599.99,1799.97
+616,2025-04-07,T-Shirt,2,Chicago,Clothing,19.99,39.98
+633,2025-04-07,Headphones,1,Chicago,Electronics,89.99,89.99
+656,2025-04-07,Watch,2,Houston,Accessories,149.99,299.98
+673,2025-04-07,Laptop,1,Los Angeles,Electronics,999.99,999.99
+755,2025-04-07,T-Shirt,4,Chicago,Clothing,19.99,79.96
+760,2025-04-07,Sneakers,1,Los Angeles,Clothing,79.99,79.99
+761,2025-04-07,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+785,2025-04-07,Backpack,1,Houston,Accessories,39.99,39.99
+853,2025-04-07,Laptop,4,Chicago,Electronics,999.99,3999.96
+887,2025-04-07,T-Shirt,4,Los Angeles,Clothing,19.99,79.96
+902,2025-04-07,Smartphone,3,Los Angeles,Electronics,599.99,1799.97
+904,2025-04-07,Laptop,1,Los Angeles,Electronics,999.99,999.99
+923,2025-04-07,Laptop,4,New York,Electronics,999.99,3999.96
+936,2025-04-07,T-Shirt,3,New York,Clothing,19.99,59.97
+945,2025-04-07,Jeans,2,Houston,Clothing,49.99,99.98
+975,2025-04-07,Watch,1,Los Angeles,Accessories,149.99,149.99
+25,2025-04-08,Laptop,2,Houston,Electronics,999.99,1999.98
+129,2025-04-08,Laptop,2,Los Angeles,Electronics,999.99,1999.98
+143,2025-04-08,Sneakers,1,Chicago,Clothing,79.99,79.99
+210,2025-04-08,Headphones,5,Los Angeles,Electronics,89.99,449.95
+277,2025-04-08,Backpack,3,New York,Accessories,39.99,119.97
+285,2025-04-08,Jeans,2,Houston,Clothing,49.99,99.98
+304,2025-04-08,Backpack,4,Chicago,Accessories,39.99,159.96
+337,2025-04-08,Backpack,1,New York,Accessories,39.99,39.99
+412,2025-04-08,Backpack,3,New York,Accessories,39.99,119.97
+421,2025-04-08,T-Shirt,4,New York,Clothing,19.99,79.96
+449,2025-04-08,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+468,2025-04-08,Sneakers,3,Los Angeles,Clothing,79.99,239.96999999999997
+501,2025-04-08,Headphones,1,New York,Electronics,89.99,89.99
+537,2025-04-08,Backpack,2,Houston,Accessories,39.99,79.98
+539,2025-04-08,T-Shirt,3,Chicago,Clothing,19.99,59.97
+554,2025-04-08,Headphones,3,New York,Electronics,89.99,269.96999999999997
+579,2025-04-08,Backpack,2,New York,Accessories,39.99,79.98
+581,2025-04-08,Laptop,3,Chicago,Electronics,999.99,2999.9700000000003
+652,2025-04-08,T-Shirt,5,Los Angeles,Clothing,19.99,99.94999999999999
+675,2025-04-08,Sneakers,3,Houston,Clothing,79.99,239.96999999999997
+676,2025-04-08,T-Shirt,3,Houston,Clothing,19.99,59.97
+691,2025-04-08,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+699,2025-04-08,Watch,1,New York,Accessories,149.99,149.99
+701,2025-04-08,T-Shirt,1,Chicago,Clothing,19.99,19.99
+828,2025-04-08,Jeans,5,Houston,Clothing,49.99,249.95000000000002
+854,2025-04-08,Headphones,5,Los Angeles,Electronics,89.99,449.95
+917,2025-04-08,T-Shirt,1,Houston,Clothing,19.99,19.99
+2,2025-04-09,Smartphone,1,Chicago,Electronics,599.99,599.99
+6,2025-04-09,T-Shirt,5,New York,Clothing,19.99,99.94999999999999
+55,2025-04-09,Smartphone,3,Los Angeles,Electronics,599.99,1799.97
+105,2025-04-09,Watch,1,New York,Accessories,149.99,149.99
+159,2025-04-09,Sneakers,3,Chicago,Clothing,79.99,239.96999999999997
+163,2025-04-09,Smartphone,5,Chicago,Electronics,599.99,2999.95
+189,2025-04-09,Headphones,3,New York,Electronics,89.99,269.96999999999997
+282,2025-04-09,Laptop,1,Houston,Electronics,999.99,999.99
+289,2025-04-09,T-Shirt,1,Houston,Clothing,19.99,19.99
+302,2025-04-09,Jeans,4,Chicago,Clothing,49.99,199.96
+327,2025-04-09,Sneakers,5,New York,Clothing,79.99,399.95
+382,2025-04-09,Headphones,3,New York,Electronics,89.99,269.96999999999997
+395,2025-04-09,Smartphone,4,Chicago,Electronics,599.99,2399.96
+415,2025-04-09,Sneakers,3,Houston,Clothing,79.99,239.96999999999997
+428,2025-04-09,Sneakers,3,Houston,Clothing,79.99,239.96999999999997
+473,2025-04-09,Sneakers,4,Chicago,Clothing,79.99,319.96
+487,2025-04-09,Laptop,1,Chicago,Electronics,999.99,999.99
+510,2025-04-09,Sneakers,1,Los Angeles,Clothing,79.99,79.99
+716,2025-04-09,Headphones,5,Chicago,Electronics,89.99,449.95
+775,2025-04-09,Jeans,5,Houston,Clothing,49.99,249.95000000000002
+793,2025-04-09,T-Shirt,1,New York,Clothing,19.99,19.99
+801,2025-04-09,Sneakers,3,New York,Clothing,79.99,239.96999999999997
+804,2025-04-09,Jeans,2,Los Angeles,Clothing,49.99,99.98
+808,2025-04-09,Jeans,3,New York,Clothing,49.99,149.97
+865,2025-04-09,Sneakers,1,Los Angeles,Clothing,79.99,79.99
+880,2025-04-09,Laptop,5,Chicago,Electronics,999.99,4999.95
+990,2025-04-09,Laptop,2,Los Angeles,Electronics,999.99,1999.98
+50,2025-04-10,Watch,1,New York,Accessories,149.99,149.99
+60,2025-04-10,Backpack,5,Los Angeles,Accessories,39.99,199.95000000000002
+138,2025-04-10,Laptop,4,New York,Electronics,999.99,3999.96
+221,2025-04-10,Smartphone,1,New York,Electronics,599.99,599.99
+227,2025-04-10,Headphones,1,New York,Electronics,89.99,89.99
+258,2025-04-10,Watch,5,Chicago,Accessories,149.99,749.95
+392,2025-04-10,Backpack,4,Los Angeles,Accessories,39.99,159.96
+405,2025-04-10,Headphones,4,New York,Electronics,89.99,359.96
+460,2025-04-10,Headphones,5,Los Angeles,Electronics,89.99,449.95
+474,2025-04-10,Smartphone,3,Chicago,Electronics,599.99,1799.97
+496,2025-04-10,Watch,2,Houston,Accessories,149.99,299.98
+502,2025-04-10,Watch,2,Chicago,Accessories,149.99,299.98
+561,2025-04-10,Smartphone,2,Houston,Electronics,599.99,1199.98
+564,2025-04-10,Sneakers,5,New York,Clothing,79.99,399.95
+566,2025-04-10,T-Shirt,4,Chicago,Clothing,19.99,79.96
+595,2025-04-10,Jeans,1,Los Angeles,Clothing,49.99,49.99
+614,2025-04-10,Headphones,2,New York,Electronics,89.99,179.98
+685,2025-04-10,Watch,4,Chicago,Accessories,149.99,599.96
+700,2025-04-10,Laptop,2,New York,Electronics,999.99,1999.98
+729,2025-04-10,Jeans,1,Chicago,Clothing,49.99,49.99
+741,2025-04-10,T-Shirt,1,Chicago,Clothing,19.99,19.99
+767,2025-04-10,Headphones,4,Houston,Electronics,89.99,359.96
+819,2025-04-10,T-Shirt,4,Chicago,Clothing,19.99,79.96
+826,2025-04-10,Sneakers,1,Chicago,Clothing,79.99,79.99
+872,2025-04-10,Watch,4,Houston,Accessories,149.99,599.96
+889,2025-04-10,Laptop,1,New York,Electronics,999.99,999.99
+890,2025-04-10,Watch,1,Los Angeles,Accessories,149.99,149.99
+899,2025-04-10,Headphones,5,New York,Electronics,89.99,449.95
+900,2025-04-10,Headphones,5,Los Angeles,Electronics,89.99,449.95
+942,2025-04-10,Backpack,2,Houston,Accessories,39.99,79.98
+985,2025-04-10,Laptop,1,Houston,Electronics,999.99,999.99
+991,2025-04-10,T-Shirt,5,New York,Clothing,19.99,99.94999999999999
+15,2025-04-11,T-Shirt,1,New York,Clothing,19.99,19.99
+16,2025-04-11,Headphones,3,New York,Electronics,89.99,269.96999999999997
+21,2025-04-11,Backpack,5,New York,Accessories,39.99,199.95000000000002
+23,2025-04-11,Watch,4,New York,Accessories,149.99,599.96
+37,2025-04-11,Jeans,2,Los Angeles,Clothing,49.99,99.98
+61,2025-04-11,T-Shirt,3,New York,Clothing,19.99,59.97
+72,2025-04-11,Backpack,2,Los Angeles,Accessories,39.99,79.98
+107,2025-04-11,Backpack,2,Los Angeles,Accessories,39.99,79.98
+108,2025-04-11,Laptop,2,Los Angeles,Electronics,999.99,1999.98
+118,2025-04-11,Laptop,5,Houston,Electronics,999.99,4999.95
+188,2025-04-11,Watch,5,Houston,Accessories,149.99,749.95
+194,2025-04-11,Backpack,4,Houston,Accessories,39.99,159.96
+234,2025-04-11,Smartphone,2,Chicago,Electronics,599.99,1199.98
+265,2025-04-11,Backpack,3,Chicago,Accessories,39.99,119.97
+271,2025-04-11,Backpack,2,New York,Accessories,39.99,79.98
+280,2025-04-11,T-Shirt,5,Houston,Clothing,19.99,99.94999999999999
+288,2025-04-11,Headphones,1,Houston,Electronics,89.99,89.99
+307,2025-04-11,Jeans,4,Houston,Clothing,49.99,199.96
+309,2025-04-11,Headphones,4,Los Angeles,Electronics,89.99,359.96
+334,2025-04-11,Headphones,1,Los Angeles,Electronics,89.99,89.99
+351,2025-04-11,T-Shirt,3,Houston,Clothing,19.99,59.97
+364,2025-04-11,Jeans,3,Chicago,Clothing,49.99,149.97
+369,2025-04-11,Headphones,3,Los Angeles,Electronics,89.99,269.96999999999997
+399,2025-04-11,Watch,5,Los Angeles,Accessories,149.99,749.95
+411,2025-04-11,Backpack,4,Houston,Accessories,39.99,159.96
+429,2025-04-11,Headphones,5,New York,Electronics,89.99,449.95
+445,2025-04-11,Headphones,5,Los Angeles,Electronics,89.99,449.95
+465,2025-04-11,Headphones,3,Chicago,Electronics,89.99,269.96999999999997
+549,2025-04-11,T-Shirt,2,Houston,Clothing,19.99,39.98
+570,2025-04-11,Jeans,3,Chicago,Clothing,49.99,149.97
+628,2025-04-11,Sneakers,2,Los Angeles,Clothing,79.99,159.98
+648,2025-04-11,Sneakers,4,New York,Clothing,79.99,319.96
+679,2025-04-11,Headphones,5,Los Angeles,Electronics,89.99,449.95
+686,2025-04-11,Headphones,5,New York,Electronics,89.99,449.95
+731,2025-04-11,Backpack,1,Houston,Accessories,39.99,39.99
+747,2025-04-11,Smartphone,5,Houston,Electronics,599.99,2999.95
+818,2025-04-11,Laptop,1,Chicago,Electronics,999.99,999.99
+895,2025-04-11,Headphones,3,Chicago,Electronics,89.99,269.96999999999997
+963,2025-04-11,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+92,2025-04-12,Sneakers,5,New York,Clothing,79.99,399.95
+125,2025-04-12,Laptop,2,Chicago,Electronics,999.99,1999.98
+128,2025-04-12,T-Shirt,4,Los Angeles,Clothing,19.99,79.96
+161,2025-04-12,Sneakers,4,New York,Clothing,79.99,319.96
+172,2025-04-12,Headphones,4,New York,Electronics,89.99,359.96
+196,2025-04-12,T-Shirt,5,New York,Clothing,19.99,99.94999999999999
+208,2025-04-12,Sneakers,3,Los Angeles,Clothing,79.99,239.96999999999997
+231,2025-04-12,Smartphone,5,Chicago,Electronics,599.99,2999.95
+249,2025-04-12,Jeans,5,Los Angeles,Clothing,49.99,249.95000000000002
+276,2025-04-12,Smartphone,1,Houston,Electronics,599.99,599.99
+357,2025-04-12,Smartphone,1,New York,Electronics,599.99,599.99
+360,2025-04-12,Backpack,1,Los Angeles,Accessories,39.99,39.99
+365,2025-04-12,Headphones,1,New York,Electronics,89.99,89.99
+389,2025-04-12,Headphones,2,Chicago,Electronics,89.99,179.98
+420,2025-04-12,Smartphone,1,Chicago,Electronics,599.99,599.99
+447,2025-04-12,Jeans,5,Los Angeles,Clothing,49.99,249.95000000000002
+477,2025-04-12,Headphones,2,Houston,Electronics,89.99,179.98
+530,2025-04-12,Smartphone,5,Chicago,Electronics,599.99,2999.95
+575,2025-04-12,Sneakers,1,Houston,Clothing,79.99,79.99
+607,2025-04-12,Headphones,1,Chicago,Electronics,89.99,89.99
+613,2025-04-12,Jeans,5,Los Angeles,Clothing,49.99,249.95000000000002
+615,2025-04-12,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+669,2025-04-12,Headphones,1,Houston,Electronics,89.99,89.99
+689,2025-04-12,Jeans,4,Chicago,Clothing,49.99,199.96
+720,2025-04-12,Smartphone,2,Chicago,Electronics,599.99,1199.98
+721,2025-04-12,Jeans,3,New York,Clothing,49.99,149.97
+730,2025-04-12,Headphones,2,Houston,Electronics,89.99,179.98
+736,2025-04-12,Backpack,1,New York,Accessories,39.99,39.99
+763,2025-04-12,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+786,2025-04-12,Watch,2,Chicago,Accessories,149.99,299.98
+798,2025-04-12,Laptop,1,Houston,Electronics,999.99,999.99
+802,2025-04-12,Jeans,1,Los Angeles,Clothing,49.99,49.99
+844,2025-04-12,T-Shirt,4,Houston,Clothing,19.99,79.96
+932,2025-04-12,Laptop,4,New York,Electronics,999.99,3999.96
+986,2025-04-12,Jeans,2,Chicago,Clothing,49.99,99.98
+12,2025-04-13,Sneakers,1,Houston,Clothing,79.99,79.99
+34,2025-04-13,Sneakers,1,Los Angeles,Clothing,79.99,79.99
+74,2025-04-13,Smartphone,4,Houston,Electronics,599.99,2399.96
+110,2025-04-13,Headphones,4,New York,Electronics,89.99,359.96
+115,2025-04-13,Backpack,5,Houston,Accessories,39.99,199.95000000000002
+130,2025-04-13,Laptop,1,New York,Electronics,999.99,999.99
+150,2025-04-13,Backpack,3,Chicago,Accessories,39.99,119.97
+181,2025-04-13,Watch,4,Chicago,Accessories,149.99,599.96
+186,2025-04-13,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+219,2025-04-13,Jeans,4,Chicago,Clothing,49.99,199.96
+230,2025-04-13,Sneakers,1,New York,Clothing,79.99,79.99
+241,2025-04-13,Headphones,3,Houston,Electronics,89.99,269.96999999999997
+290,2025-04-13,T-Shirt,2,Chicago,Clothing,19.99,39.98
+324,2025-04-13,Laptop,5,Chicago,Electronics,999.99,4999.95
+335,2025-04-13,Sneakers,1,New York,Clothing,79.99,79.99
+375,2025-04-13,Watch,3,Los Angeles,Accessories,149.99,449.97
+380,2025-04-13,Jeans,2,New York,Clothing,49.99,99.98
+388,2025-04-13,Sneakers,1,New York,Clothing,79.99,79.99
+401,2025-04-13,Laptop,5,Houston,Electronics,999.99,4999.95
+404,2025-04-13,Sneakers,2,Los Angeles,Clothing,79.99,159.98
+467,2025-04-13,Smartphone,1,Houston,Electronics,599.99,599.99
+517,2025-04-13,Watch,2,Chicago,Accessories,149.99,299.98
+543,2025-04-13,Backpack,3,Houston,Accessories,39.99,119.97
+586,2025-04-13,Watch,3,Los Angeles,Accessories,149.99,449.97
+589,2025-04-13,T-Shirt,2,Houston,Clothing,19.99,39.98
+617,2025-04-13,Backpack,2,Chicago,Accessories,39.99,79.98
+634,2025-04-13,Headphones,2,New York,Electronics,89.99,179.98
+658,2025-04-13,Jeans,2,Houston,Clothing,49.99,99.98
+688,2025-04-13,Jeans,1,Houston,Clothing,49.99,49.99
+743,2025-04-13,Sneakers,2,Houston,Clothing,79.99,159.98
+756,2025-04-13,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+773,2025-04-13,Smartphone,5,Houston,Electronics,599.99,2999.95
+839,2025-04-13,Backpack,3,Los Angeles,Accessories,39.99,119.97
+850,2025-04-13,Sneakers,4,Houston,Clothing,79.99,319.96
+870,2025-04-13,Smartphone,4,Chicago,Electronics,599.99,2399.96
+879,2025-04-13,Laptop,1,Los Angeles,Electronics,999.99,999.99
+924,2025-04-13,Sneakers,2,Houston,Clothing,79.99,159.98
+962,2025-04-13,Watch,2,New York,Accessories,149.99,299.98
+968,2025-04-13,Backpack,4,New York,Accessories,39.99,159.96
+5,2025-04-14,Backpack,4,New York,Accessories,39.99,159.96
+29,2025-04-14,Headphones,3,Houston,Electronics,89.99,269.96999999999997
+52,2025-04-14,T-Shirt,5,Houston,Clothing,19.99,99.94999999999999
+79,2025-04-14,Sneakers,2,New York,Clothing,79.99,159.98
+91,2025-04-14,Smartphone,5,Los Angeles,Electronics,599.99,2999.95
+164,2025-04-14,Backpack,3,Los Angeles,Accessories,39.99,119.97
+166,2025-04-14,T-Shirt,1,New York,Clothing,19.99,19.99
+176,2025-04-14,Sneakers,4,New York,Clothing,79.99,319.96
+195,2025-04-14,Jeans,2,Chicago,Clothing,49.99,99.98
+202,2025-04-14,Watch,3,Chicago,Accessories,149.99,449.97
+242,2025-04-14,Laptop,1,Los Angeles,Electronics,999.99,999.99
+259,2025-04-14,Watch,4,Houston,Accessories,149.99,599.96
+363,2025-04-14,Smartphone,1,New York,Electronics,599.99,599.99
+379,2025-04-14,Watch,4,New York,Accessories,149.99,599.96
+434,2025-04-14,T-Shirt,4,Chicago,Clothing,19.99,79.96
+476,2025-04-14,T-Shirt,3,Houston,Clothing,19.99,59.97
+478,2025-04-14,Headphones,4,New York,Electronics,89.99,359.96
+518,2025-04-14,Laptop,4,Chicago,Electronics,999.99,3999.96
+525,2025-04-14,T-Shirt,5,Los Angeles,Clothing,19.99,99.94999999999999
+528,2025-04-14,Backpack,4,Chicago,Accessories,39.99,159.96
+547,2025-04-14,Headphones,3,Los Angeles,Electronics,89.99,269.96999999999997
+559,2025-04-14,T-Shirt,2,Houston,Clothing,19.99,39.98
+580,2025-04-14,Smartphone,1,New York,Electronics,599.99,599.99
+585,2025-04-14,Backpack,5,New York,Accessories,39.99,199.95000000000002
+636,2025-04-14,Watch,2,Los Angeles,Accessories,149.99,299.98
+654,2025-04-14,Watch,1,New York,Accessories,149.99,149.99
+678,2025-04-14,Backpack,2,Los Angeles,Accessories,39.99,79.98
+718,2025-04-14,Backpack,2,Houston,Accessories,39.99,79.98
+725,2025-04-14,Smartphone,3,Los Angeles,Electronics,599.99,1799.97
+764,2025-04-14,Smartphone,5,Chicago,Electronics,599.99,2999.95
+805,2025-04-14,Headphones,5,Houston,Electronics,89.99,449.95
+852,2025-04-14,Smartphone,4,New York,Electronics,599.99,2399.96
+858,2025-04-14,Sneakers,4,Houston,Clothing,79.99,319.96
+866,2025-04-14,Watch,3,Houston,Accessories,149.99,449.97
+903,2025-04-14,Headphones,4,Houston,Electronics,89.99,359.96
+907,2025-04-14,Smartphone,4,Houston,Electronics,599.99,2399.96
+929,2025-04-14,Smartphone,2,Houston,Electronics,599.99,1199.98
+956,2025-04-14,Sneakers,3,Chicago,Clothing,79.99,239.96999999999997
+969,2025-04-14,Laptop,1,Chicago,Electronics,999.99,999.99
+988,2025-04-14,T-Shirt,5,Chicago,Clothing,19.99,99.94999999999999
+992,2025-04-14,Sneakers,2,Los Angeles,Clothing,79.99,159.98
+39,2025-04-15,Backpack,4,Chicago,Accessories,39.99,159.96
+114,2025-04-15,Watch,5,Houston,Accessories,149.99,749.95
+149,2025-04-15,Smartphone,4,New York,Electronics,599.99,2399.96
+152,2025-04-15,Sneakers,4,Chicago,Clothing,79.99,319.96
+156,2025-04-15,Sneakers,4,Houston,Clothing,79.99,319.96
+246,2025-04-15,Watch,3,New York,Accessories,149.99,449.97
+250,2025-04-15,Headphones,4,Chicago,Electronics,89.99,359.96
+257,2025-04-15,Jeans,3,Houston,Clothing,49.99,149.97
+359,2025-04-15,Sneakers,2,Houston,Clothing,79.99,159.98
+368,2025-04-15,Backpack,1,New York,Accessories,39.99,39.99
+407,2025-04-15,T-Shirt,4,Houston,Clothing,19.99,79.96
+414,2025-04-15,T-Shirt,3,Houston,Clothing,19.99,59.97
+417,2025-04-15,T-Shirt,5,Los Angeles,Clothing,19.99,99.94999999999999
+423,2025-04-15,Jeans,2,Chicago,Clothing,49.99,99.98
+453,2025-04-15,Sneakers,2,Chicago,Clothing,79.99,159.98
+500,2025-04-15,Watch,5,New York,Accessories,149.99,749.95
+506,2025-04-15,Sneakers,3,Houston,Clothing,79.99,239.96999999999997
+521,2025-04-15,Headphones,3,New York,Electronics,89.99,269.96999999999997
+578,2025-04-15,Watch,5,Houston,Accessories,149.99,749.95
+604,2025-04-15,Backpack,2,Houston,Accessories,39.99,79.98
+611,2025-04-15,Sneakers,2,Houston,Clothing,79.99,159.98
+653,2025-04-15,Smartphone,5,Los Angeles,Electronics,599.99,2999.95
+663,2025-04-15,Backpack,2,New York,Accessories,39.99,79.98
+670,2025-04-15,Sneakers,5,Los Angeles,Clothing,79.99,399.95
+748,2025-04-15,T-Shirt,4,Houston,Clothing,19.99,79.96
+827,2025-04-15,Watch,5,Chicago,Accessories,149.99,749.95
+837,2025-04-15,Jeans,1,Los Angeles,Clothing,49.99,49.99
+921,2025-04-15,Laptop,3,Houston,Electronics,999.99,2999.9700000000003
+938,2025-04-15,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+54,2025-04-16,Backpack,2,Houston,Accessories,39.99,79.98
+56,2025-04-16,Backpack,5,Houston,Accessories,39.99,199.95000000000002
+64,2025-04-16,Backpack,4,New York,Accessories,39.99,159.96
+88,2025-04-16,T-Shirt,5,Chicago,Clothing,19.99,99.94999999999999
+103,2025-04-16,Smartphone,1,Los Angeles,Electronics,599.99,599.99
+139,2025-04-16,Jeans,3,New York,Clothing,49.99,149.97
+145,2025-04-16,Laptop,5,Chicago,Electronics,999.99,4999.95
+190,2025-04-16,T-Shirt,5,Houston,Clothing,19.99,99.94999999999999
+321,2025-04-16,Jeans,4,Los Angeles,Clothing,49.99,199.96
+322,2025-04-16,Jeans,5,Houston,Clothing,49.99,249.95000000000002
+333,2025-04-16,T-Shirt,3,New York,Clothing,19.99,59.97
+350,2025-04-16,Backpack,4,Chicago,Accessories,39.99,159.96
+436,2025-04-16,Laptop,2,Houston,Electronics,999.99,1999.98
+439,2025-04-16,Smartphone,4,Los Angeles,Electronics,599.99,2399.96
+442,2025-04-16,Watch,3,Los Angeles,Accessories,149.99,449.97
+482,2025-04-16,Headphones,5,Los Angeles,Electronics,89.99,449.95
+497,2025-04-16,Watch,4,Houston,Accessories,149.99,599.96
+532,2025-04-16,T-Shirt,1,Houston,Clothing,19.99,19.99
+592,2025-04-16,Headphones,2,Chicago,Electronics,89.99,179.98
+597,2025-04-16,Backpack,4,New York,Accessories,39.99,159.96
+639,2025-04-16,Laptop,4,Chicago,Electronics,999.99,3999.96
+766,2025-04-16,T-Shirt,4,Los Angeles,Clothing,19.99,79.96
+905,2025-04-16,T-Shirt,5,New York,Clothing,19.99,99.94999999999999
+960,2025-04-16,Laptop,4,Los Angeles,Electronics,999.99,3999.96
+62,2025-04-17,Laptop,4,New York,Electronics,999.99,3999.96
+69,2025-04-17,Watch,4,Chicago,Accessories,149.99,599.96
+78,2025-04-17,Sneakers,4,Houston,Clothing,79.99,319.96
+89,2025-04-17,Backpack,3,New York,Accessories,39.99,119.97
+93,2025-04-17,Headphones,3,Los Angeles,Electronics,89.99,269.96999999999997
+132,2025-04-17,Backpack,4,Chicago,Accessories,39.99,159.96
+171,2025-04-17,Jeans,1,Los Angeles,Clothing,49.99,49.99
+218,2025-04-17,T-Shirt,1,Los Angeles,Clothing,19.99,19.99
+235,2025-04-17,Sneakers,2,New York,Clothing,79.99,159.98
+264,2025-04-17,Jeans,1,Houston,Clothing,49.99,49.99
+267,2025-04-17,T-Shirt,3,New York,Clothing,19.99,59.97
+268,2025-04-17,Headphones,3,New York,Electronics,89.99,269.96999999999997
+272,2025-04-17,Laptop,3,Los Angeles,Electronics,999.99,2999.9700000000003
+284,2025-04-17,Jeans,1,Los Angeles,Clothing,49.99,49.99
+292,2025-04-17,Laptop,3,Los Angeles,Electronics,999.99,2999.9700000000003
+295,2025-04-17,Backpack,1,Houston,Accessories,39.99,39.99
+339,2025-04-17,T-Shirt,2,Houston,Clothing,19.99,39.98
+381,2025-04-17,Sneakers,1,Houston,Clothing,79.99,79.99
+396,2025-04-17,T-Shirt,3,New York,Clothing,19.99,59.97
+424,2025-04-17,Backpack,5,Chicago,Accessories,39.99,199.95000000000002
+454,2025-04-17,Jeans,2,New York,Clothing,49.99,99.98
+488,2025-04-17,T-Shirt,4,New York,Clothing,19.99,79.96
+493,2025-04-17,Sneakers,2,Los Angeles,Clothing,79.99,159.98
+503,2025-04-17,Headphones,5,Los Angeles,Electronics,89.99,449.95
+513,2025-04-17,Smartphone,5,Houston,Electronics,599.99,2999.95
+529,2025-04-17,Smartphone,3,Chicago,Electronics,599.99,1799.97
+572,2025-04-17,Watch,4,Houston,Accessories,149.99,599.96
+582,2025-04-17,Smartphone,4,Houston,Electronics,599.99,2399.96
+612,2025-04-17,Backpack,1,Houston,Accessories,39.99,39.99
+621,2025-04-17,Backpack,2,Chicago,Accessories,39.99,79.98
+737,2025-04-17,Backpack,1,Los Angeles,Accessories,39.99,39.99
+809,2025-04-17,Jeans,3,New York,Clothing,49.99,149.97
+951,2025-04-17,Laptop,2,New York,Electronics,999.99,1999.98
+987,2025-04-17,Sneakers,5,Houston,Clothing,79.99,399.95
+996,2025-04-17,Headphones,4,Chicago,Electronics,89.99,359.96
+13,2025-04-18,Jeans,2,Los Angeles,Clothing,49.99,99.98
+14,2025-04-18,Sneakers,5,New York,Clothing,79.99,399.95
+22,2025-04-18,Sneakers,4,Houston,Clothing,79.99,319.96
+81,2025-04-18,Backpack,2,Houston,Accessories,39.99,79.98
+109,2025-04-18,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+131,2025-04-18,Watch,1,Houston,Accessories,149.99,149.99
+144,2025-04-18,Sneakers,1,Los Angeles,Clothing,79.99,79.99
+148,2025-04-18,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+180,2025-04-18,Jeans,5,Chicago,Clothing,49.99,249.95000000000002
+183,2025-04-18,Laptop,3,Los Angeles,Electronics,999.99,2999.9700000000003
+193,2025-04-18,Watch,3,New York,Accessories,149.99,449.97
+220,2025-04-18,T-Shirt,3,Houston,Clothing,19.99,59.97
+233,2025-04-18,T-Shirt,3,Los Angeles,Clothing,19.99,59.97
+269,2025-04-18,Headphones,5,Chicago,Electronics,89.99,449.95
+274,2025-04-18,Jeans,2,Chicago,Clothing,49.99,99.98
+310,2025-04-18,Backpack,4,Los Angeles,Accessories,39.99,159.96
+311,2025-04-18,Backpack,3,Chicago,Accessories,39.99,119.97
+317,2025-04-18,Sneakers,5,Los Angeles,Clothing,79.99,399.95
+387,2025-04-18,Laptop,3,Los Angeles,Electronics,999.99,2999.9700000000003
+440,2025-04-18,Sneakers,5,Los Angeles,Clothing,79.99,399.95
+443,2025-04-18,Sneakers,5,Houston,Clothing,79.99,399.95
+508,2025-04-18,Headphones,2,New York,Electronics,89.99,179.98
+509,2025-04-18,Watch,4,Houston,Accessories,149.99,599.96
+550,2025-04-18,Headphones,3,Houston,Electronics,89.99,269.96999999999997
+587,2025-04-18,T-Shirt,3,Chicago,Clothing,19.99,59.97
+608,2025-04-18,Backpack,2,Los Angeles,Accessories,39.99,79.98
+695,2025-04-18,Smartphone,1,New York,Electronics,599.99,599.99
+703,2025-04-18,Headphones,1,Chicago,Electronics,89.99,89.99
+715,2025-04-18,Sneakers,5,Chicago,Clothing,79.99,399.95
+719,2025-04-18,Laptop,2,Houston,Electronics,999.99,1999.98
+754,2025-04-18,Backpack,3,Chicago,Accessories,39.99,119.97
+770,2025-04-18,Jeans,5,New York,Clothing,49.99,249.95000000000002
+771,2025-04-18,Headphones,1,Houston,Electronics,89.99,89.99
+811,2025-04-18,Watch,3,New York,Accessories,149.99,449.97
+815,2025-04-18,Sneakers,5,New York,Clothing,79.99,399.95
+864,2025-04-18,Backpack,1,Los Angeles,Accessories,39.99,39.99
+885,2025-04-18,Sneakers,2,Chicago,Clothing,79.99,159.98
+892,2025-04-18,Watch,3,Houston,Accessories,149.99,449.97
+916,2025-04-18,Watch,4,Chicago,Accessories,149.99,599.96
+931,2025-04-18,T-Shirt,3,New York,Clothing,19.99,59.97
+940,2025-04-18,Smartphone,1,Chicago,Electronics,599.99,599.99
+995,2025-04-18,Backpack,1,Houston,Accessories,39.99,39.99
+1000,2025-04-18,Smartphone,1,Houston,Electronics,599.99,599.99
+53,2025-04-19,Headphones,2,New York,Electronics,89.99,179.98
+70,2025-04-19,Laptop,3,Chicago,Electronics,999.99,2999.9700000000003
+116,2025-04-19,Laptop,1,New York,Electronics,999.99,999.99
+121,2025-04-19,Laptop,2,New York,Electronics,999.99,1999.98
+240,2025-04-19,Watch,1,New York,Accessories,149.99,149.99
+279,2025-04-19,T-Shirt,1,Houston,Clothing,19.99,19.99
+303,2025-04-19,Laptop,2,Los Angeles,Electronics,999.99,1999.98
+331,2025-04-19,Headphones,1,Houston,Electronics,89.99,89.99
+353,2025-04-19,Headphones,1,New York,Electronics,89.99,89.99
+403,2025-04-19,Smartphone,4,New York,Electronics,599.99,2399.96
+408,2025-04-19,Smartphone,3,New York,Electronics,599.99,1799.97
+418,2025-04-19,T-Shirt,2,Houston,Clothing,19.99,39.98
+419,2025-04-19,T-Shirt,2,Chicago,Clothing,19.99,39.98
+425,2025-04-19,Jeans,2,New York,Clothing,49.99,99.98
+462,2025-04-19,Backpack,4,Houston,Accessories,39.99,159.96
+524,2025-04-19,Jeans,3,Houston,Clothing,49.99,149.97
+626,2025-04-19,Watch,1,New York,Accessories,149.99,149.99
+878,2025-04-19,Jeans,3,Los Angeles,Clothing,49.99,149.97
+881,2025-04-19,Headphones,2,Los Angeles,Electronics,89.99,179.98
+922,2025-04-19,Smartphone,1,Chicago,Electronics,599.99,599.99
+925,2025-04-19,Headphones,1,Los Angeles,Electronics,89.99,89.99
+984,2025-04-19,Watch,3,Los Angeles,Accessories,149.99,449.97
+33,2025-04-20,Backpack,5,Chicago,Accessories,39.99,199.95000000000002
+67,2025-04-20,Smartphone,1,Chicago,Electronics,599.99,599.99
+85,2025-04-20,Headphones,2,Houston,Electronics,89.99,179.98
+169,2025-04-20,Backpack,2,Chicago,Accessories,39.99,79.98
+306,2025-04-20,Headphones,4,Houston,Electronics,89.99,359.96
+342,2025-04-20,Watch,1,New York,Accessories,149.99,149.99
+348,2025-04-20,Smartphone,4,Chicago,Electronics,599.99,2399.96
+349,2025-04-20,T-Shirt,1,Los Angeles,Clothing,19.99,19.99
+398,2025-04-20,Backpack,4,Los Angeles,Accessories,39.99,159.96
+450,2025-04-20,Backpack,1,Houston,Accessories,39.99,39.99
+458,2025-04-20,Sneakers,1,Chicago,Clothing,79.99,79.99
+480,2025-04-20,T-Shirt,5,New York,Clothing,19.99,99.94999999999999
+507,2025-04-20,Smartphone,1,New York,Electronics,599.99,599.99
+609,2025-04-20,Headphones,2,New York,Electronics,89.99,179.98
+708,2025-04-20,Headphones,5,Chicago,Electronics,89.99,449.95
+728,2025-04-20,T-Shirt,2,New York,Clothing,19.99,39.98
+746,2025-04-20,Sneakers,2,Houston,Clothing,79.99,159.98
+752,2025-04-20,Smartphone,1,Chicago,Electronics,599.99,599.99
+791,2025-04-20,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+807,2025-04-20,Smartphone,2,Houston,Electronics,599.99,1199.98
+833,2025-04-20,Watch,5,New York,Accessories,149.99,749.95
+891,2025-04-20,Laptop,2,Los Angeles,Electronics,999.99,1999.98
+961,2025-04-20,Smartphone,2,Houston,Electronics,599.99,1199.98
+68,2025-04-21,Watch,1,Houston,Accessories,149.99,149.99
+77,2025-04-21,Sneakers,3,Houston,Clothing,79.99,239.96999999999997
+82,2025-04-21,Sneakers,5,Los Angeles,Clothing,79.99,399.95
+97,2025-04-21,Laptop,2,Los Angeles,Electronics,999.99,1999.98
+124,2025-04-21,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+137,2025-04-21,Smartphone,4,Houston,Electronics,599.99,2399.96
+141,2025-04-21,Watch,5,New York,Accessories,149.99,749.95
+165,2025-04-21,Headphones,2,Los Angeles,Electronics,89.99,179.98
+185,2025-04-21,Backpack,3,New York,Accessories,39.99,119.97
+198,2025-04-21,Headphones,5,New York,Electronics,89.99,449.95
+199,2025-04-21,T-Shirt,5,Houston,Clothing,19.99,99.94999999999999
+215,2025-04-21,Backpack,5,Houston,Accessories,39.99,199.95000000000002
+224,2025-04-21,Backpack,2,New York,Accessories,39.99,79.98
+237,2025-04-21,Laptop,2,Los Angeles,Electronics,999.99,1999.98
+343,2025-04-21,Headphones,2,Los Angeles,Electronics,89.99,179.98
+413,2025-04-21,Jeans,5,New York,Clothing,49.99,249.95000000000002
+516,2025-04-21,Smartphone,4,Houston,Electronics,599.99,2399.96
+527,2025-04-21,T-Shirt,1,New York,Clothing,19.99,19.99
+548,2025-04-21,Backpack,1,Houston,Accessories,39.99,39.99
+568,2025-04-21,Smartphone,1,Los Angeles,Electronics,599.99,599.99
+711,2025-04-21,Laptop,5,New York,Electronics,999.99,4999.95
+722,2025-04-21,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+740,2025-04-21,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+757,2025-04-21,Watch,2,Houston,Accessories,149.99,299.98
+768,2025-04-21,Jeans,3,New York,Clothing,49.99,149.97
+781,2025-04-21,Watch,3,Chicago,Accessories,149.99,449.97
+822,2025-04-21,Smartphone,2,Chicago,Electronics,599.99,1199.98
+883,2025-04-21,Sneakers,5,New York,Clothing,79.99,399.95
+950,2025-04-21,T-Shirt,2,Chicago,Clothing,19.99,39.98
+966,2025-04-21,Sneakers,5,New York,Clothing,79.99,399.95
+979,2025-04-21,Sneakers,2,New York,Clothing,79.99,159.98
+44,2025-04-22,Headphones,5,Los Angeles,Electronics,89.99,449.95
+80,2025-04-22,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+84,2025-04-22,Smartphone,3,Chicago,Electronics,599.99,1799.97
+90,2025-04-22,Watch,5,New York,Accessories,149.99,749.95
+104,2025-04-22,Backpack,2,Houston,Accessories,39.99,79.98
+162,2025-04-22,T-Shirt,3,Los Angeles,Clothing,19.99,59.97
+206,2025-04-22,Headphones,3,Chicago,Electronics,89.99,269.96999999999997
+209,2025-04-22,Headphones,3,Houston,Electronics,89.99,269.96999999999997
+247,2025-04-22,Headphones,4,Houston,Electronics,89.99,359.96
+256,2025-04-22,Backpack,1,New York,Accessories,39.99,39.99
+361,2025-04-22,Smartphone,3,Los Angeles,Electronics,599.99,1799.97
+435,2025-04-22,Sneakers,3,Chicago,Clothing,79.99,239.96999999999997
+483,2025-04-22,Watch,2,Houston,Accessories,149.99,299.98
+567,2025-04-22,Jeans,5,Los Angeles,Clothing,49.99,249.95000000000002
+583,2025-04-22,Laptop,3,Houston,Electronics,999.99,2999.9700000000003
+627,2025-04-22,Jeans,1,New York,Clothing,49.99,49.99
+632,2025-04-22,Backpack,3,Los Angeles,Accessories,39.99,119.97
+657,2025-04-22,Smartphone,2,Los Angeles,Electronics,599.99,1199.98
+667,2025-04-22,Headphones,3,New York,Electronics,89.99,269.96999999999997
+680,2025-04-22,Smartphone,1,Los Angeles,Electronics,599.99,599.99
+683,2025-04-22,T-Shirt,4,New York,Clothing,19.99,79.96
+687,2025-04-22,Jeans,1,New York,Clothing,49.99,49.99
+758,2025-04-22,Laptop,2,Los Angeles,Electronics,999.99,1999.98
+782,2025-04-22,Sneakers,2,Los Angeles,Clothing,79.99,159.98
+814,2025-04-22,Smartphone,2,Chicago,Electronics,599.99,1199.98
+825,2025-04-22,Jeans,4,New York,Clothing,49.99,199.96
+845,2025-04-22,Backpack,4,New York,Accessories,39.99,159.96
+884,2025-04-22,Headphones,2,Houston,Electronics,89.99,179.98
+894,2025-04-22,Backpack,4,Chicago,Accessories,39.99,159.96
+897,2025-04-22,Smartphone,1,Los Angeles,Electronics,599.99,599.99
+914,2025-04-22,Smartphone,3,Chicago,Electronics,599.99,1799.97
+946,2025-04-22,Laptop,3,Chicago,Electronics,999.99,2999.9700000000003
+964,2025-04-22,Backpack,2,Los Angeles,Accessories,39.99,79.98
+967,2025-04-22,Sneakers,1,Chicago,Clothing,79.99,79.99
+970,2025-04-22,Sneakers,5,New York,Clothing,79.99,399.95
+971,2025-04-22,Smartphone,2,Chicago,Electronics,599.99,1199.98
+977,2025-04-22,Jeans,3,New York,Clothing,49.99,149.97
+983,2025-04-22,Sneakers,5,Houston,Clothing,79.99,399.95
+998,2025-04-22,Sneakers,3,New York,Clothing,79.99,239.96999999999997
+24,2025-04-23,Headphones,3,Houston,Electronics,89.99,269.96999999999997
+173,2025-04-23,T-Shirt,4,Houston,Clothing,19.99,79.96
+184,2025-04-23,Watch,3,New York,Accessories,149.99,449.97
+204,2025-04-23,Sneakers,5,Los Angeles,Clothing,79.99,399.95
+255,2025-04-23,Smartphone,3,Houston,Electronics,599.99,1799.97
+328,2025-04-23,Backpack,1,Houston,Accessories,39.99,39.99
+352,2025-04-23,T-Shirt,1,Houston,Clothing,19.99,19.99
+355,2025-04-23,Backpack,4,Chicago,Accessories,39.99,159.96
+410,2025-04-23,Laptop,1,Los Angeles,Electronics,999.99,999.99
+422,2025-04-23,Jeans,1,Chicago,Clothing,49.99,49.99
+461,2025-04-23,Backpack,5,New York,Accessories,39.99,199.95000000000002
+469,2025-04-23,Watch,3,Los Angeles,Accessories,149.99,449.97
+560,2025-04-23,T-Shirt,5,Houston,Clothing,19.99,99.94999999999999
+664,2025-04-23,Laptop,4,Los Angeles,Electronics,999.99,3999.96
+732,2025-04-23,Smartphone,2,New York,Electronics,599.99,1199.98
+790,2025-04-23,Watch,3,New York,Accessories,149.99,449.97
+886,2025-04-23,Laptop,5,New York,Electronics,999.99,4999.95
+926,2025-04-23,Backpack,4,Chicago,Accessories,39.99,159.96
+930,2025-04-23,Smartphone,4,Houston,Electronics,599.99,2399.96
+943,2025-04-23,Backpack,1,Los Angeles,Accessories,39.99,39.99
+953,2025-04-23,Sneakers,1,Los Angeles,Clothing,79.99,79.99
+982,2025-04-23,Backpack,3,Houston,Accessories,39.99,119.97
+989,2025-04-23,T-Shirt,3,New York,Clothing,19.99,59.97
+38,2025-04-24,Sneakers,5,Chicago,Clothing,79.99,399.95
+99,2025-04-24,T-Shirt,3,Houston,Clothing,19.99,59.97
+113,2025-04-24,Sneakers,2,Houston,Clothing,79.99,159.98
+133,2025-04-24,Watch,3,Houston,Accessories,149.99,449.97
+142,2025-04-24,Sneakers,1,Los Angeles,Clothing,79.99,79.99
+211,2025-04-24,Jeans,1,Houston,Clothing,49.99,49.99
+244,2025-04-24,T-Shirt,4,Los Angeles,Clothing,19.99,79.96
+252,2025-04-24,Headphones,2,Houston,Electronics,89.99,179.98
+253,2025-04-24,Sneakers,3,Houston,Clothing,79.99,239.96999999999997
+254,2025-04-24,Watch,2,New York,Accessories,149.99,299.98
+275,2025-04-24,Headphones,4,Chicago,Electronics,89.99,359.96
+323,2025-04-24,Laptop,5,New York,Electronics,999.99,4999.95
+437,2025-04-24,Backpack,4,Houston,Accessories,39.99,159.96
+466,2025-04-24,Watch,5,Chicago,Accessories,149.99,749.95
+491,2025-04-24,Smartphone,5,Los Angeles,Electronics,599.99,2999.95
+555,2025-04-24,Laptop,2,Los Angeles,Electronics,999.99,1999.98
+574,2025-04-24,Sneakers,4,Chicago,Clothing,79.99,319.96
+598,2025-04-24,Smartphone,1,Los Angeles,Electronics,599.99,599.99
+599,2025-04-24,Laptop,1,Chicago,Electronics,999.99,999.99
+629,2025-04-24,Jeans,4,Houston,Clothing,49.99,199.96
+744,2025-04-24,Laptop,5,Houston,Electronics,999.99,4999.95
+751,2025-04-24,Watch,1,Houston,Accessories,149.99,149.99
+753,2025-04-24,Backpack,3,Chicago,Accessories,39.99,119.97
+762,2025-04-24,T-Shirt,3,Houston,Clothing,19.99,59.97
+776,2025-04-24,Watch,5,New York,Accessories,149.99,749.95
+958,2025-04-24,Headphones,4,Chicago,Electronics,89.99,359.96
+4,2025-04-25,Laptop,1,Houston,Electronics,999.99,999.99
+30,2025-04-25,Laptop,2,Los Angeles,Electronics,999.99,1999.98
+59,2025-04-25,Sneakers,3,New York,Clothing,79.99,239.96999999999997
+76,2025-04-25,Smartphone,3,Houston,Electronics,599.99,1799.97
+96,2025-04-25,Jeans,5,Chicago,Clothing,49.99,249.95000000000002
+117,2025-04-25,Watch,1,Los Angeles,Accessories,149.99,149.99
+140,2025-04-25,Watch,3,Los Angeles,Accessories,149.99,449.97
+151,2025-04-25,Watch,1,Chicago,Accessories,149.99,149.99
+192,2025-04-25,Headphones,5,Houston,Electronics,89.99,449.95
+217,2025-04-25,T-Shirt,3,Chicago,Clothing,19.99,59.97
+225,2025-04-25,Smartphone,4,Chicago,Electronics,599.99,2399.96
+228,2025-04-25,Sneakers,5,Los Angeles,Clothing,79.99,399.95
+261,2025-04-25,Headphones,2,Chicago,Electronics,89.99,179.98
+297,2025-04-25,Headphones,2,New York,Electronics,89.99,179.98
+325,2025-04-25,Smartphone,3,Houston,Electronics,599.99,1799.97
+367,2025-04-25,Headphones,3,Los Angeles,Electronics,89.99,269.96999999999997
+371,2025-04-25,T-Shirt,1,New York,Clothing,19.99,19.99
+409,2025-04-25,Laptop,3,Houston,Electronics,999.99,2999.9700000000003
+459,2025-04-25,Sneakers,5,Houston,Clothing,79.99,399.95
+490,2025-04-25,T-Shirt,5,Chicago,Clothing,19.99,99.94999999999999
+526,2025-04-25,T-Shirt,1,Los Angeles,Clothing,19.99,19.99
+624,2025-04-25,Watch,5,New York,Accessories,149.99,749.95
+631,2025-04-25,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+710,2025-04-25,Smartphone,2,New York,Electronics,599.99,1199.98
+738,2025-04-25,Jeans,4,Houston,Clothing,49.99,199.96
+765,2025-04-25,T-Shirt,2,Chicago,Clothing,19.99,39.98
+778,2025-04-25,Smartphone,2,Houston,Electronics,599.99,1199.98
+784,2025-04-25,Backpack,3,Chicago,Accessories,39.99,119.97
+824,2025-04-25,Jeans,2,New York,Clothing,49.99,99.98
+836,2025-04-25,Headphones,4,Houston,Electronics,89.99,359.96
+868,2025-04-25,Backpack,1,Houston,Accessories,39.99,39.99
+47,2025-04-26,Headphones,4,New York,Electronics,89.99,359.96
+63,2025-04-26,Watch,5,Houston,Accessories,149.99,749.95
+71,2025-04-26,Sneakers,1,Houston,Clothing,79.99,79.99
+83,2025-04-26,T-Shirt,3,New York,Clothing,19.99,59.97
+160,2025-04-26,Backpack,2,Houston,Accessories,39.99,79.98
+179,2025-04-26,Backpack,3,Los Angeles,Accessories,39.99,119.97
+239,2025-04-26,Backpack,4,New York,Accessories,39.99,159.96
+260,2025-04-26,Headphones,4,Chicago,Electronics,89.99,359.96
+315,2025-04-26,Backpack,5,Chicago,Accessories,39.99,199.95000000000002
+319,2025-04-26,T-Shirt,3,Chicago,Clothing,19.99,59.97
+346,2025-04-26,Watch,1,New York,Accessories,149.99,149.99
+347,2025-04-26,Watch,2,Houston,Accessories,149.99,299.98
+370,2025-04-26,Headphones,4,Chicago,Electronics,89.99,359.96
+376,2025-04-26,Backpack,4,New York,Accessories,39.99,159.96
+511,2025-04-26,Backpack,3,Houston,Accessories,39.99,119.97
+519,2025-04-26,Headphones,2,Houston,Electronics,89.99,179.98
+520,2025-04-26,Laptop,2,Houston,Electronics,999.99,1999.98
+576,2025-04-26,Backpack,2,New York,Accessories,39.99,79.98
+645,2025-04-26,Jeans,4,Los Angeles,Clothing,49.99,199.96
+646,2025-04-26,Sneakers,3,Los Angeles,Clothing,79.99,239.96999999999997
+671,2025-04-26,Headphones,3,Houston,Electronics,89.99,269.96999999999997
+677,2025-04-26,Watch,2,Houston,Accessories,149.99,299.98
+690,2025-04-26,Smartphone,2,Los Angeles,Electronics,599.99,1199.98
+704,2025-04-26,Smartphone,5,Los Angeles,Electronics,599.99,2999.95
+706,2025-04-26,Laptop,1,New York,Electronics,999.99,999.99
+735,2025-04-26,Sneakers,1,Chicago,Clothing,79.99,79.99
+810,2025-04-26,Jeans,1,New York,Clothing,49.99,49.99
+820,2025-04-26,Smartphone,4,Houston,Electronics,599.99,2399.96
+821,2025-04-26,Backpack,4,Los Angeles,Accessories,39.99,159.96
+857,2025-04-26,T-Shirt,3,Los Angeles,Clothing,19.99,59.97
+860,2025-04-26,Backpack,5,Chicago,Accessories,39.99,199.95000000000002
+877,2025-04-26,Jeans,5,Houston,Clothing,49.99,249.95000000000002
+893,2025-04-26,Smartphone,5,Chicago,Electronics,599.99,2999.95
+910,2025-04-26,Watch,5,Los Angeles,Accessories,149.99,749.95
+911,2025-04-26,Sneakers,5,New York,Clothing,79.99,399.95
+957,2025-04-26,Sneakers,1,New York,Clothing,79.99,79.99
+978,2025-04-26,Jeans,2,Chicago,Clothing,49.99,99.98
+981,2025-04-26,T-Shirt,5,Los Angeles,Clothing,19.99,99.94999999999999
+8,2025-04-27,Smartphone,3,Chicago,Electronics,599.99,1799.97
+57,2025-04-27,Headphones,3,New York,Electronics,89.99,269.96999999999997
+66,2025-04-27,Sneakers,5,Los Angeles,Clothing,79.99,399.95
+87,2025-04-27,Backpack,4,Chicago,Accessories,39.99,159.96
+100,2025-04-27,Smartphone,1,Chicago,Electronics,599.99,599.99
+123,2025-04-27,Jeans,4,Houston,Clothing,49.99,199.96
+134,2025-04-27,Backpack,2,Chicago,Accessories,39.99,79.98
+213,2025-04-27,Headphones,5,Los Angeles,Electronics,89.99,449.95
+229,2025-04-27,Headphones,4,Chicago,Electronics,89.99,359.96
+329,2025-04-27,Backpack,3,New York,Accessories,39.99,119.97
+330,2025-04-27,Watch,4,New York,Accessories,149.99,599.96
+338,2025-04-27,Headphones,3,Los Angeles,Electronics,89.99,269.96999999999997
+373,2025-04-27,Headphones,2,Chicago,Electronics,89.99,179.98
+378,2025-04-27,Watch,5,Chicago,Accessories,149.99,749.95
+383,2025-04-27,Laptop,1,Houston,Electronics,999.99,999.99
+397,2025-04-27,Headphones,3,New York,Electronics,89.99,269.96999999999997
+416,2025-04-27,Watch,4,Los Angeles,Accessories,149.99,599.96
+494,2025-04-27,Sneakers,2,New York,Clothing,79.99,159.98
+569,2025-04-27,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+622,2025-04-27,T-Shirt,5,Houston,Clothing,19.99,99.94999999999999
+672,2025-04-27,Jeans,4,Houston,Clothing,49.99,199.96
+674,2025-04-27,Watch,2,Houston,Accessories,149.99,299.98
+692,2025-04-27,Backpack,5,Houston,Accessories,39.99,199.95000000000002
+733,2025-04-27,Watch,2,Chicago,Accessories,149.99,299.98
+831,2025-04-27,T-Shirt,3,New York,Clothing,19.99,59.97
+838,2025-04-27,Watch,5,Los Angeles,Accessories,149.99,749.95
+840,2025-04-27,Smartphone,5,Chicago,Electronics,599.99,2999.95
+847,2025-04-27,Sneakers,1,Houston,Clothing,79.99,79.99
+871,2025-04-27,Laptop,3,Houston,Electronics,999.99,2999.9700000000003
+919,2025-04-27,Jeans,3,Houston,Clothing,49.99,149.97
+927,2025-04-27,Watch,3,Los Angeles,Accessories,149.99,449.97
+934,2025-04-27,Smartphone,3,Houston,Electronics,599.99,1799.97
+955,2025-04-27,Watch,4,Chicago,Accessories,149.99,599.96
+10,2025-04-28,Jeans,3,New York,Clothing,49.99,149.97
+17,2025-04-28,Smartphone,3,Houston,Electronics,599.99,1799.97
+95,2025-04-28,Sneakers,3,Chicago,Clothing,79.99,239.96999999999997
+205,2025-04-28,Backpack,4,Houston,Accessories,39.99,159.96
+251,2025-04-28,Backpack,5,New York,Accessories,39.99,199.95000000000002
+266,2025-04-28,Headphones,5,New York,Electronics,89.99,449.95
+332,2025-04-28,Headphones,5,Houston,Electronics,89.99,449.95
+358,2025-04-28,Backpack,1,Los Angeles,Accessories,39.99,39.99
+362,2025-04-28,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+386,2025-04-28,Jeans,2,New York,Clothing,49.99,99.98
+446,2025-04-28,T-Shirt,2,Chicago,Clothing,19.99,39.98
+451,2025-04-28,Jeans,5,Los Angeles,Clothing,49.99,249.95000000000002
+472,2025-04-28,T-Shirt,1,Los Angeles,Clothing,19.99,19.99
+498,2025-04-28,Laptop,5,Chicago,Electronics,999.99,4999.95
+558,2025-04-28,Laptop,3,Houston,Electronics,999.99,2999.9700000000003
+593,2025-04-28,Headphones,1,Los Angeles,Electronics,89.99,89.99
+606,2025-04-28,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+641,2025-04-28,Headphones,2,New York,Electronics,89.99,179.98
+642,2025-04-28,T-Shirt,5,New York,Clothing,19.99,99.94999999999999
+712,2025-04-28,T-Shirt,4,Los Angeles,Clothing,19.99,79.96
+714,2025-04-28,Backpack,5,Houston,Accessories,39.99,199.95000000000002
+724,2025-04-28,Sneakers,5,Los Angeles,Clothing,79.99,399.95
+749,2025-04-28,Jeans,1,Chicago,Clothing,49.99,49.99
+812,2025-04-28,Smartphone,2,Houston,Electronics,599.99,1199.98
+823,2025-04-28,Headphones,1,Houston,Electronics,89.99,89.99
+861,2025-04-28,Jeans,2,Houston,Clothing,49.99,99.98
+874,2025-04-28,Jeans,3,Los Angeles,Clothing,49.99,149.97
+909,2025-04-28,Backpack,3,Chicago,Accessories,39.99,119.97
+928,2025-04-28,Backpack,1,New York,Accessories,39.99,39.99
+935,2025-04-28,Watch,4,Houston,Accessories,149.99,599.96
+949,2025-04-28,Backpack,4,Los Angeles,Accessories,39.99,159.96
+993,2025-04-28,Watch,3,New York,Accessories,149.99,449.97
+997,2025-04-28,Backpack,5,Chicago,Accessories,39.99,199.95000000000002
+9,2025-04-29,Sneakers,2,Houston,Clothing,79.99,159.98
+28,2025-04-29,Watch,3,New York,Accessories,149.99,449.97
+32,2025-04-29,T-Shirt,3,Houston,Clothing,19.99,59.97
+41,2025-04-29,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+75,2025-04-29,Laptop,2,Houston,Electronics,999.99,1999.98
+86,2025-04-29,Headphones,4,New York,Electronics,89.99,359.96
+111,2025-04-29,Sneakers,2,Los Angeles,Clothing,79.99,159.98
+127,2025-04-29,Headphones,2,Chicago,Electronics,89.99,179.98
+177,2025-04-29,Backpack,4,Los Angeles,Accessories,39.99,159.96
+201,2025-04-29,Laptop,2,Chicago,Electronics,999.99,1999.98
+214,2025-04-29,Headphones,2,Chicago,Electronics,89.99,179.98
+278,2025-04-29,Watch,2,Chicago,Accessories,149.99,299.98
+287,2025-04-29,T-Shirt,4,New York,Clothing,19.99,79.96
+298,2025-04-29,Backpack,4,Chicago,Accessories,39.99,159.96
+299,2025-04-29,Sneakers,4,Chicago,Clothing,79.99,319.96
+314,2025-04-29,Backpack,4,Houston,Accessories,39.99,159.96
+320,2025-04-29,Sneakers,1,Houston,Clothing,79.99,79.99
+345,2025-04-29,Sneakers,5,New York,Clothing,79.99,399.95
+426,2025-04-29,Headphones,2,New York,Electronics,89.99,179.98
+448,2025-04-29,Watch,5,Los Angeles,Accessories,149.99,749.95
+455,2025-04-29,Backpack,4,Chicago,Accessories,39.99,159.96
+457,2025-04-29,Backpack,4,Chicago,Accessories,39.99,159.96
+463,2025-04-29,Laptop,3,Los Angeles,Electronics,999.99,2999.9700000000003
+470,2025-04-29,Backpack,2,Houston,Accessories,39.99,79.98
+499,2025-04-29,Jeans,1,New York,Clothing,49.99,49.99
+556,2025-04-29,Jeans,1,Los Angeles,Clothing,49.99,49.99
+557,2025-04-29,Jeans,4,Houston,Clothing,49.99,199.96
+591,2025-04-29,Headphones,3,Houston,Electronics,89.99,269.96999999999997
+623,2025-04-29,Backpack,1,New York,Accessories,39.99,39.99
+638,2025-04-29,Backpack,4,Los Angeles,Accessories,39.99,159.96
+707,2025-04-29,Headphones,2,Chicago,Electronics,89.99,179.98
+709,2025-04-29,Smartphone,2,Chicago,Electronics,599.99,1199.98
+713,2025-04-29,Backpack,2,Chicago,Accessories,39.99,79.98
+726,2025-04-29,Headphones,5,New York,Electronics,89.99,449.95
+769,2025-04-29,Watch,3,Chicago,Accessories,149.99,449.97
+780,2025-04-29,Watch,3,Los Angeles,Accessories,149.99,449.97
+795,2025-04-29,Smartphone,1,New York,Electronics,599.99,599.99
+842,2025-04-29,Jeans,2,New York,Clothing,49.99,99.98
+843,2025-04-29,Smartphone,2,Los Angeles,Electronics,599.99,1199.98
+848,2025-04-29,Sneakers,1,Houston,Clothing,79.99,79.99
+869,2025-04-29,Backpack,4,Houston,Accessories,39.99,159.96
+888,2025-04-29,Sneakers,5,New York,Clothing,79.99,399.95
+901,2025-04-29,Smartphone,5,New York,Electronics,599.99,2999.95
+918,2025-04-29,Laptop,5,Los Angeles,Electronics,999.99,4999.95
+959,2025-04-29,Sneakers,2,Chicago,Clothing,79.99,159.98
+48,2025-04-30,Headphones,1,Houston,Electronics,89.99,89.99
+51,2025-04-30,Headphones,1,New York,Electronics,89.99,89.99
+102,2025-04-30,Headphones,4,Houston,Electronics,89.99,359.96
+135,2025-04-30,Smartphone,1,Chicago,Electronics,599.99,599.99
+223,2025-04-30,T-Shirt,3,Chicago,Clothing,19.99,59.97
+226,2025-04-30,Headphones,1,Chicago,Electronics,89.99,89.99
+283,2025-04-30,Jeans,4,Chicago,Clothing,49.99,199.96
+313,2025-04-30,Laptop,2,New York,Electronics,999.99,1999.98
+316,2025-04-30,Sneakers,4,Chicago,Clothing,79.99,319.96
+336,2025-04-30,T-Shirt,1,Chicago,Clothing,19.99,19.99
+340,2025-04-30,Watch,2,New York,Accessories,149.99,299.98
+384,2025-04-30,T-Shirt,2,Chicago,Clothing,19.99,39.98
+391,2025-04-30,Jeans,4,Los Angeles,Clothing,49.99,199.96
+394,2025-04-30,Smartphone,2,Los Angeles,Electronics,599.99,1199.98
+427,2025-04-30,Watch,4,Houston,Accessories,149.99,599.96
+456,2025-04-30,Jeans,1,Los Angeles,Clothing,49.99,49.99
+492,2025-04-30,Backpack,3,Houston,Accessories,39.99,119.97
+514,2025-04-30,Backpack,5,New York,Accessories,39.99,199.95000000000002
+535,2025-04-30,Headphones,2,Chicago,Electronics,89.99,179.98
+540,2025-04-30,Laptop,5,Houston,Electronics,999.99,4999.95
+544,2025-04-30,Laptop,1,New York,Electronics,999.99,999.99
+553,2025-04-30,T-Shirt,2,Los Angeles,Clothing,19.99,39.98
+562,2025-04-30,Jeans,2,Houston,Clothing,49.99,99.98
+584,2025-04-30,Laptop,2,Houston,Electronics,999.99,1999.98
+600,2025-04-30,Jeans,3,New York,Clothing,49.99,149.97
+605,2025-04-30,Sneakers,2,Chicago,Clothing,79.99,159.98
+618,2025-04-30,Sneakers,5,New York,Clothing,79.99,399.95
+655,2025-04-30,Sneakers,4,Los Angeles,Clothing,79.99,319.96
+698,2025-04-30,Headphones,4,Chicago,Electronics,89.99,359.96
+717,2025-04-30,Watch,4,New York,Accessories,149.99,599.96
+779,2025-04-30,Sneakers,4,Los Angeles,Clothing,79.99,319.96
+796,2025-04-30,Watch,5,New York,Accessories,149.99,749.95
+800,2025-04-30,Jeans,5,New York,Clothing,49.99,249.95000000000002
+817,2025-04-30,Jeans,4,Chicago,Clothing,49.99,199.96
+835,2025-04-30,Smartphone,3,New York,Electronics,599.99,1799.97
+841,2025-04-30,Sneakers,4,Houston,Clothing,79.99,319.96
+855,2025-04-30,Sneakers,3,New York,Clothing,79.99,239.96999999999997
+941,2025-04-30,Watch,5,Chicago,Accessories,149.99,749.95
+999,2025-04-30,Smartphone,5,New York,Electronics,599.99,2999.95
